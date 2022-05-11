@@ -3,12 +3,11 @@
   justify-content: center;
   height: 100%;
   align-items: center;
-  background-color: rgb(136, 84, 84);
+  background-color: rgba(0, 0, 0, 0.925);
 }
 .login {
   width: 100%;
   max-width: 330px;
-  border: 2px solid #000;
   text-align: center;
   padding: 1rem;
 }
@@ -17,4 +16,10 @@
 }
 .button{
   height: 50px;
+}
+h1{
+  color: #b711f8;
+}
+.spinner {
+  margin: 0 auto;
 }
